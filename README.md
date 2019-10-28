@@ -13,29 +13,29 @@ That's it! It will create a folder called **sass** with the folders and files yo
 
 # Files
 
->  **sass**
->  >***app.sass*** # comment
+>  **sass**  
+>  >***app.sass*** # comment  
 >
->  >**base**
->  >>***_mixins.sass*** # general mixins
->  >>***_variables.sass*** # variables
->  >>***_fonts.sass*** # all font imports
->  >>***_reset.sass*** # resets
->  >>***_base.sass*** # base styles
->  >>***_import.sass*** # imports the base files
+>  >**base**  
+>  >>***_mixins.sass*** # general mixins  
+>  >>***_variables.sass*** # variables  
+>  >>***_fonts.sass*** # all font imports  
+>  >>***_reset.sass*** # resets  
+>  >>***_base.sass*** # base styles  
+>  >>***_import.sass*** # imports the base files  
 >
->  >**layout**
->  >>***_layout.sass*** # layout
->  >>***_import.sass*** # imports the layout files
+>  >**layout**  
+>  >>***_layout.sass*** # layout  
+>  >>***_import.sass*** # imports the layout files  
 >
->  >**module**
->  >> ... here you have only a import file waiting for you to create your own modules and import them
->  >>***_import.sass*** # imports the module files
+>  >**module**  
+>  >> ... here you have only a import file waiting for you to create your own modules and import them  
+>  >>***_import.sass*** # imports the module files  
 >
->  >**state**
->  >>***_state.sass*** # states
->  >>***_import.sass*** # imports the states files
+>  >**state**  
+>  >>***_state.sass*** # states  
+>  >>***_import.sass*** # imports the states files  
 >
->  >**theme**
->  >>***_theme.sass*** # themes (you can delete this and create specific files for each theme if it gets really big
->  >>***_import.sass*** # imports the theme files
+>  >**theme**  
+>  >>***_theme.sass*** # themes (you can delete this and create specific files for each theme if it gets really big  
+>  >>***_import.sass*** # imports the theme files  
