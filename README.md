@@ -6,7 +6,7 @@ If you want to know more about SMACSS, the [official website](http://smacss.com/
 
 (If you want to make it more advanced, feel free to pull request)
 # How to use
-Open your terminal, **cd** into your project folder and type **smacss-sass**
+Open your terminal, run **npm i -g smacss-sass** then **cd** into your project folder and run **smacss-sass**
 That's it! It will create a folder called **sass** with the folders and files you need to start.
 
 # Files
