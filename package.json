@@ -1,6 +1,6 @@
 {
   "name": "smacss-sass",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Basic folder/structure generator for the SMACSS methodology + SASS.",
   "main": "index.js",
   "scripts": {
