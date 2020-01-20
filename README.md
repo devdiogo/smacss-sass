@@ -1,10 +1,8 @@
 # Description
 
-Hey there! This is a VERY simple package and it's hardcoded to create my folder/file structure for implementing the SMACSS methodology with SASS.
+This is a VERY simple package and it's hardcoded to create my folder/file structure for implementing the SMACSS methodology with SASS.
 
 If you want to know more about SMACSS, the [official website](http://smacss.com/) is the best content you will need to start.
-
-(If you want to make it more advanced, feel free to [pull request](https://github.com/devdiogo/smacss-sass))
 
 # How to use
 Open your terminal, run **npm i -g smacss-sass** then **cd** into your project folder and run **smacss-sass**
