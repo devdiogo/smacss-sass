@@ -27,7 +27,7 @@ That's it! It will create a folder called **sass** with the folders and files yo
 >  >>***_import.sass*** # imports the layout files  
 >
 >  >**module**  
->  >> ... here you have only a import file waiting for you to create your own modules and import them  
+>  >> ... here you have only an import file waiting for you to create your own modules and import them  
 >  >>***_import.sass*** # imports the module files  
 >
 >  >**state**  
