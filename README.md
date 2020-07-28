@@ -12,7 +12,7 @@ That's it! It will create a folder called **sass** with the folders and files yo
 # Files
 
 >  **sass**  
->  >***app.sass*** # comment  
+>  >***app.sass***  
 >
 >  >**base**  
 >  >>***_mixins.sass*** # general mixins  
